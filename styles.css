@@ -1,0 +1,28 @@
+
+body{
+
+margin: 20px; 
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.omarimg{
+    width: 170px;
+   border-radius: 20px;
+
+}
+.card{
+    color: #2b2839;
+    background: #8ecae6;
+    width: 400px;
+    padding: 20px;
+    margin: 0 auto;
+    display:flex;
+      justify-content: space-around;
+      text-align: center;
+      border-bottom: #d8cefe 6px solid;
+      border-radius: 20px;
+}
+.blue{
+border:1px solid blue;
+
+}
